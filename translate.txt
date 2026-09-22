@@ -1,0 +1,17 @@
+1 august - at and cronjob 
+
+2 august - ownership related videos 
+
+3 august - git intro 
+
+4 august - basic commands , git status 
+
+5 august - git branches , git tags , gitlog
+
+6 august - github creation , git clone , git remote 
+
+7 august - cherry pick , fork mechanism , rebase , gitmerge
+
+8 august - git stash , git reset , git revert
+
+10 august - fork  , pull request
